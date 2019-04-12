@@ -1,0 +1,50 @@
+[
+        {
+            "title": "car_export",
+            "format_size": {
+                "width": 1718,
+                "height": 1205
+            },
+            "anchor_size": {
+                "width": 72,
+                "height": 59
+            },
+            "relative_positions": [
+                {
+                    "y1": 34,
+                    "x2": 380,
+                    "x1": 152,
+                    "y2": 60
+                },
+                {
+                    "y1": 119,
+                    "x2": 1321,
+                    "x1": 1000,
+                    "y2": 138
+                }
+            ],
+            "anchor_url": "https://s3-ap-northeast-1.amazonaws.com/ocr-file/documents_anchor/car_export.jpg",
+            "format_url": "https://s3-ap-northeast-1.amazonaws.com/ocr-file/documents/car_export.jpg"
+        },
+        {
+            "title": "Arrival_Notice",
+            "format_size": {
+                "width": 669,
+                "height": 965
+            },
+            "anchor_size": {
+                "width": 282,
+                "height": 41
+            },
+            "relative_positions": [
+                {
+                    "y1": 92,
+                    "x2": 558,
+                    "x1": 402,
+                    "y2": 117
+                }
+            ],
+            "anchor_url": "https://s3-ap-northeast-1.amazonaws.com/ocr-file/documents_anchor/Arrival_Notice.png",
+            "format_url": "https://s3-ap-northeast-1.amazonaws.com/ocr-file/documents/Arrival_Notice.png"
+        }
+    ]

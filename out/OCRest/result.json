@@ -1,0 +1,144 @@
+{
+	"name": "body",
+	"type": "root",
+	"children": [
+		{
+			"name": "div",
+			"css_class": "ocr_page",
+			"id": "page_1",
+			"bbox": {
+				"l": 0,
+				"t": 0,
+				"r": 11.324748632915858,
+				"b": 0.7055918151349444
+			},
+			"type": "container",
+			"children": [
+				{
+					"name": "div",
+					"css_class": "ocr_carea",
+					"id": "block_1_1",
+					"bbox": {
+						"l": 0.05291938613512083,
+						"t": 0,
+						"r": 11.28946904215911,
+						"b": 0.7055918151349444
+					},
+					"type": "container",
+					"children": [
+						{
+							"name": "p",
+							"css_class": "ocr_par",
+							"id": "par_1_1",
+							"bbox": {
+								"l": 0.05291938613512083,
+								"t": 0,
+								"r": 11.28946904215911,
+								"b": 0.7055918151349444
+							},
+							"type": "container",
+							"children": [
+								{
+									"name": "span",
+									"css_class": "ocr_line",
+									"id": "line_1_1",
+									"bbox": {
+										"l": 0.05291938613512083,
+										"t": 0,
+										"r": 11.28946904215911,
+										"b": 0.7055918151349444
+									},
+									"type": "container",
+									"children": [
+										{
+											"name": "span",
+											"css_class": "ocrx_word",
+											"id": "word_1_1",
+											"bbox": {
+												"l": 0.05291938613512083,
+												"t": 0,
+												"r": 3.8278355971070734,
+												"b": 0.7055918151349444
+											},
+											"wconf": "32",
+											"type": "content",
+											"line_id": "line_1_1",
+											"textContent": "N;ZCT:2\"6"
+										},
+										{
+											"name": "span",
+											"css_class": "ocrx_word",
+											"id": "word_1_2",
+											"bbox": {
+												"l": 4.092432527782678,
+												"t": 0,
+												"r": 8.80225789380843,
+												"b": 0.7055918151349444
+											},
+											"wconf": "33",
+											"type": "content",
+											"line_id": "line_1_1",
+											"textContent": "QQJIWHWldﬁHIWHZ"
+										},
+										{
+											"name": "span",
+											"css_class": "ocrx_word",
+											"id": "word_1_3",
+											"bbox": {
+												"l": 9.066854824484036,
+												"t": 0.03527959075674722,
+												"r": 9.684247662727111,
+												"b": 0.6526724289998236
+											},
+											"wconf": "59",
+											"type": "content",
+											"line_id": "line_1_1",
+											"textContent": "”6'"
+										},
+										{
+											"name": "span",
+											"css_class": "ocrx_word",
+											"id": "word_1_4",
+											"bbox": {
+												"l": 10.01940377491621,
+												"t": 0.1587581584053625,
+												"r": 10.654436408537661,
+												"b": 0.6526724289998236
+											},
+											"wconf": "58",
+											"type": "content",
+											"line_id": "line_1_1",
+											"textContent": ".5'"
+										},
+										{
+											"name": "span",
+											"css_class": "ocrx_word",
+											"id": "word_1_5",
+											"bbox": {
+												"l": 10.936673134591638,
+												"t": 0.1587581584053625,
+												"r": 11.28946904215911,
+												"b": 0.6526724289998236
+											},
+											"wconf": "93",
+											"type": "content",
+											"line_id": "line_1_1",
+											"textContent": "8"
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	],
+	"metadata": {
+		"pages": 1,
+		"units": "c",
+		"density": 56.69,
+		"height": 0.7055918151349444,
+		"width": 11.324748632915858
+	}
+}
